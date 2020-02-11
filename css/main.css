@@ -1,0 +1,18 @@
+#egg-big {
+transform-origin: 126px 120px;
+}
+
+.egg-big-left {
+  transform: rotate(-20deg);
+}
+
+.egg-big-right {
+  transform: rotate(20deg);
+}
+
+
+
+
+
+/** middle of 896.5 width of screen
+606.375 height of screen **/
